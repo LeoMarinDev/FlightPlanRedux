@@ -1,0 +1,25 @@
+{
+  "spec": "2.0",
+  "mod_id": "FlightPlan",
+  "name": "Flight Plan",
+  "author": "schlosrat",
+  "description": "FlightPlan is an in-game maneuver planning tool for KSP2: create, refine and execute transfer, circularization and course-correction burns from one window.",
+  "source": "https://github.com/schlosrat/FlightPlan",
+  "version": "0.10.8",
+  "version_check": "",
+  "ksp2_version": {
+    "min": "0.2.9.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "SpaceWarp2",
+      "version": {
+        "min": "2.0.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": [],
+  "main_assembly": "FlightPlan.dll"
+}

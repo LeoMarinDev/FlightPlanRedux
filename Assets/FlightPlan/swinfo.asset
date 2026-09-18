@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9065a46703c44e8fabd263388eaeb6e7, type: 3}
+  m_Name: 'Flight Plan [FlightPlan]'
+  m_EditorClassIdentifier: ksp2community.ksp2unitytools.editor::Ksp2UnityTools.Editor.Modding.Mod
+  id: FlightPlan
+  name: Flight Plan
+  author: schlosrat
+  description: 'FlightPlan is an in-game maneuver planning tool for KSP2: create, refine
+    and execute transfer, circularization and course-correction burns from one window.'
+  version: 0.10.8
+  versionCheck: 
+  minKsp2Version: 0.2.9.0
+  maxKsp2Version: '*'
+  source: https://github.com/schlosrat/FlightPlan

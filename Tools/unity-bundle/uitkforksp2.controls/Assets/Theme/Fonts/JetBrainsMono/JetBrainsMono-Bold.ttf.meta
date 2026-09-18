@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1ade8b79d5b9d6f4592f871844fff03a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JetBrains Mono-Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0054e47f555043b4e8dabb3f52d48a71, type: 3}
+  - {fileID: 12800000, guid: d0a9a6105fa2c1440aeca2520b6d90ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+{
+    "name": "FlightPlan",
+    "rootNamespace": "FlightPlan",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.Entities",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "0Harmony.dll",
+        "Assembly-CSharp.dll",
+        "SpaceWarp2.dll",
+        "SpaceWarp2.UI.dll",
+        "ReduxLib.dll",
+        "UitkForKsp2.dll",
+        "uitkforksp2.controls.Runtime.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
